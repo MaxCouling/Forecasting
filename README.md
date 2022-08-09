@@ -4,9 +4,9 @@
 
 install python dependinces using
 
-'''bash
+```bash
 pip install -r requirements.txt
-'''
+```
 ## About
 
 This project was made for the MSA program for the data science option.
